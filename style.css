@@ -24,19 +24,17 @@ h1, h2, h3 {
 }
 
 .project-card {
-  background-color: #ffeadd;
+  background-color: #f4ede4;
   border-left: 6px solid #d0a05a;
   padding: 1rem;
   margin: 1rem 0;
 }
 
 a {
-  color: #7a8b58;
+  color: #9b5de5;
   text-decoration: none;
-  font-weight: 600;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #d26746;
 }
