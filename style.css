@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #fdfaf6;
+  color: #2a2a2a;
+  line-height: 1.6;
+  padding: 0 1rem;
+}
+
+h1, h2, h3 {
+  font-family: 'DM Serif Display', serif;
+  margin-top: 2rem;
+  color: #4c4c4c;
+}
+
+.hero {
+  margin-top: 4rem;
+  max-width: 600px;
+}
+
+.about, .work, .contact {
+  margin-top: 4rem;
+  max-width: 700px;
+}
+
+.project-card {
+  background-color: #f4ede4;
+  border-left: 6px solid #d0a05a;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+a {
+  color: #9b5de5;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
